@@ -7,11 +7,8 @@ golang/go1.7.1.linux-amd64.tar.gz:
   object_id: e78481ab-9a69-4116-8b99-06d3518232c5
   sha: 919ab01305ada0078a9fdf8a12bb56fb0b8a1444
 google-fluentd-vendor:
-  size: 13568105
-  sha: c106f27b2dd9517bfc9d49e4e89c86f1a77a3bb6
-google-fluentd-vendor/google-fluentd-vendor-0.12-plugin-0.6.15.tgz:
-  size: 13568105
-  sha: c106f27b2dd9517bfc9d49e4e89c86f1a77a3bb6
+  size: 16662048
+  sha: a49df675a55ae6002c0ff8152c278176a8cfc6e4
 libtool/libtool-2.4.2.tar.gz:
   size: 2632347
   object_id: 2e2677e4-06fd-4a5a-b2d1-45c3c2984867
